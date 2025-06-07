@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.16.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "my-chatbot",
+    "libraryId": "737ab873-2f9d-417c-a5c8-ae4178facf15",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "my-chatbot",
+    "solutionShortDescription": "my-chatbot description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
